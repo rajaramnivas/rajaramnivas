@@ -1,26 +1,125 @@
-# 💫 About Me:
-## About Me<br><br>🔭 I’m currently working on<br>- Mini projects using React.js and Firebase<br>- A Machine Learning research paper on text classification<br>- Improving problem-solving skills in Java and Data Structures<br><br>👯 I’m looking to collaborate on<br>- Web development projects (React / Frontend)<br>- Data Analytics and Power BI dashboards<br>- Machine Learning and AI-based projects<br><br>🤝 I’m looking for help with<br>- Advanced Machine Learning models<br>- Research paper optimization and publication<br>- Full-stack development best practices<br><br>🌱 I’m currently learning<br>- Advanced Java (Collections, Multithreading, JDBC)<br>- Machine Learning and AI concepts<br>- Power BI for real-world data analysis<br><br>💬 Ask me about<br>- Java and C programming<br>- React.js and Firebase<br>- Power BI dashboards<br>- Database design and SQL<br>- MCA academics and project guidance<br><br>⚡ Fun fact<br>- State-level Silambam champion and a fast typist<br>- Love learning new technologies and exploring YouTube content<br>
+# Hi, I'm Rajaram S 👋
 
+### Python Full Stack Developer | Python • Django • React.js • MySQL
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajaramnivas) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rajaram Nivas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajaramnivas26@gmail.com) 
+I'm a Python Full Stack Developer interested in building practical, user-friendly web applications and solving real-world problems through technology.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajaramnivas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajaramnivas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaramnivas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy working on backend development, database integration, frontend development, and application functionality.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajaramnivas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💻 **Role:** Python Full Stack Developer at RR IT Solutions
+- 🎓 **Education:** Master of Computer Applications (MCA), Kongu Engineering College
+- 🚀 **Projects:** Cab Booking, Food Delivery, Bookstore Management
+- 🛠️ **Technologies:** Python, Django, React.js, MySQL, JavaScript
+- 📚 **Learning:** Strengthening my problem-solving, backend development, and full-stack engineering skills
+- 🤝 **Open to:** Python Developer and Python Full Stack Developer opportunities
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajaramnivas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+## 🛠️ Technical Skills
 
+**Programming Languages**
+- Python
+- JavaScript
+- SQL
+
+**Frontend Development**
+- HTML5
+- CSS3
+- React.js
+- Tailwind CSS
+
+**Backend Development**
+- Django
+- Django ORM
+- REST APIs
+
+**Databases**
+- MySQL
+- SQLite
+
+**Tools & Platforms**
+- Git
+- GitHub
+- Visual Studio Code
+
+**Core Concepts**
+- Object-Oriented Programming (OOP)
+- CRUD Operations
+- Database Management
+- User Authentication
+- API Integration
+- Debugging
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Cab Booking Application
+
+A web application designed to support customers and drivers with cab booking and ride management.
+
+**Key Features**
+- Customer and driver registration and login
+- Booking management
+- Ride acceptance
+- Trip status tracking
+- Database integration
+
+**Tech Stack:** Python, Django, Django ORM, MySQL, HTML, CSS
+
+### 2. Food Delivery Application
+
+A web application for managing food orders, user accounts, and order history.
+
+**Key Features**
+- User registration and authentication
+- Food order placement
+- Order history management
+- Database operations
+- Administrative management using Django Admin
+
+**Tech Stack:** Python, Django, Django ORM, HTML, CSS, SQLite/MySQL
+
+### 3. Bookstore Management Application
+
+A Django-based application for managing book information through basic database operations.
+
+**Key Features**
+- Add book details
+- View book information
+- Edit existing records
+- Perform CRUD operations
+- Manage data using Django ORM and ModelForms
+
+**Tech Stack:** Python, Django, Django ORM, ModelForms, HTML, CSS, SQLite/MySQL
+
+---
+
+## 💼 Professional Experience
+
+**Python Full Stack Developer — RR IT Solutions**
+
+- Develop web applications using Python, Django, and MySQL.
+- Implement CRUD operations, authentication, and database management.
+- Work on Cab Booking and Food Delivery applications.
+- Use Django ORM and Django Admin for database-related functionality.
+- Use Git and GitHub for version control and development.
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Kongu Engineering College | 2024–2026
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rajurajaram26/)
+- **GitHub:** [rajaramnivas](https://github.com/rajaramnivas)
+- **Email:** rajaramnivas26@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
